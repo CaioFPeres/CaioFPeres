@@ -1,1 +1,1 @@
-Ciência da Computação - UFSCAR
+Computer Science - UFSCAR, Sorocaba - SP
