@@ -3,7 +3,7 @@ Computer Science - UFSCAR, Sorocaba - SP
 <div>
   <a href="https://github.com/CaioFPeres">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=CaioFPeres&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioFPeres&layout=compact&langs_count=15&theme=dracula"/>
+  <img height="80" width="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioFPeres&layout=compact&langs_count=15&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
